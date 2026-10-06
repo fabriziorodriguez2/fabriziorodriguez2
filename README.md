@@ -1,12 +1,13 @@
-### Hola, soy Fabrizio 👋
+**Full Stack Developer | Automation & Integrations**
 
-Junior Backend Developer — APIs, integraciones CRM/API y automatización de procesos.
-Estudiante avanzado de Ingeniería en Informática (Universidad Católica del Uruguay).
+Estudiante de Ingeniería Informática en la Universidad Católica del Uruguay, con experiencia en desarrollo full stack, backend, automatización e integraciones entre sistemas.
 
-- 🔭 Construyendo **Flikker**, un SaaS multi-tenant de reputación y automatización
-- 🛠️ Node.js · TypeScript · NestJS · PostgreSQL · Prisma · Webhooks · n8n · Docker
-- 🤖 Experiencia aplicando LLMs para clasificación de mensajes con impacto comercial
-- 🎯 Me interesa: diseño de APIs, integración de sistemas y automatización end-to-end
-- 🌐 Inglés C1 (Cambridge C1 Advanced)
+- 🚀 Construyendo **Flikker**, un SaaS de fidelización y reputación para comercios
+- 🛠️ **Python · TypeScript · JavaScript · React · Next.js · Node.js · NestJS · PostgreSQL · Docker**
+- 🔗 Experiencia integrando **APIs, Webhooks, CRM, Meta, WhatsApp y sistemas internos**
+- ⚙️ Automatización de procesos con **n8n, Python y APIs**
+- 🤖 Integración de herramientas de **IA** en workflows y productos
+- 🎯 Me interesa construir productos, diseñar APIs y automatizar procesos end-to-end
+- 🌐 Inglés **C1/C2 — Cambridge Advanced English (CAE)**
 
-📫 fabrizio.rodriguez7272@gmail.com · [LinkedIn](https://www.linkedin.com/in/fabrizio-agustín-rodríguez-suna/)
+📫 **fabrizio.rodriguez7272@gmail.com** · [LinkedIn](https://www.linkedin.com/in/fabrizio-agustín-rodríguez-suna/)
